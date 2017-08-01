@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>riot-web</id>
+	<packageSourceUrl>https://github.com/RyanMelenaNoesis/choco-riot-web</packageSourceUrl>
+    <version>0.11.4</version>
+    <title>riot-web (Install)</title>
+    <authors>RIOT</authors>
+    <owners>RIOT</owners>
+    <licenseUrl>https://github.com/vector-im/riot-web/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://about.riot.im/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Riot is a Matrix web client built using the Matrix React SDK</description>
+    <summary>Riot Matrix client</summary>
+    <tags>riot riot.im riot-web admin</tags>
+    <projectSourceUrl>https://github.com/vector-im/riot-web</projectSourceUrl>
+    <docsUrl>https://github.com/vector-im/riot-web/blob/master/README.md</docsUrl>
+    <bugTrackerUrl>https://github.com/vector-im/riot-web/issues</bugTrackerUrl>
+  </metadata>
+</package>
