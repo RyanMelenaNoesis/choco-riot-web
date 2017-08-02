@@ -6,7 +6,7 @@
     <version>0.11.4</version>
     <title>riot-web (Install)</title>
     <authors>RIOT</authors>
-    <owners>RIOT</owners>
+    <owners>ryan.melena</owners>
     <licenseUrl>https://github.com/vector-im/riot-web/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://about.riot.im/</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
